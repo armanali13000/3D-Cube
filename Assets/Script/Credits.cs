@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 
+
 public class Credits : MonoBehaviour
 {
     public void Quit()
@@ -7,4 +8,5 @@ public class Credits : MonoBehaviour
         Debug.Log("Quit");
         Application.Quit();
     }
+    
 }
